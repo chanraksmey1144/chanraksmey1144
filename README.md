@@ -86,7 +86,7 @@ I specialize in designing and developing modern digital products with a focus on
 
 ## 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,java" />
 
 ---
 
