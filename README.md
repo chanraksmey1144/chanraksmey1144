@@ -1,100 +1,303 @@
+# 🌌 Ultimate Professional GitHub README
+
 <div align="center">
 
-<!-- HEADER CAPSULE GENERATOR -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SENGHONG%20CHANRAKSMEY%20👋&fontSize=48&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:090979,50:00d4ff,100:020024&text=SENGHONG%20CHANRAKSMEY&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20Android%20Developer%20•%20UI/UX%20Designer&descAlignY=58&descSize=18" width="100%" />
 
-### 🌟 Full-Stack Web & Native Android Developer
-*Crafting seamless digital experiences from server architecture to mobile pixels.*
+<br>
 
-[🖥️ Portfolio Website](https://github.com/chanraksmey1144) • [✉️ Email Me](mailto:chanraksmey1144@gmail.com) • [👔 LinkedIn](https://linkedin.com/in/chanraksmey1144)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Web+Applications;Crafting+Modern+Android+Experiences;Laravel+•+React+•+Kotlin+Developer;Passionate+About+Clean+Architecture;Always+Learning+New+Technologies" />
 
----
+<br><br>
 
-<!-- LIGHTWEIGHT PROFILE OVERVIEW -->
-<p align="center">
-  🚀 Currently building scalable web systems and modern mobile applications.<br>
-  💡 Passionate about clean architecture, performance optimization, and UI/UX design.<br>
-  🌱 Exploring advanced system design, microservices, and Kotlin Multiplatform.
-</p>
+<img src="https://img.shields.io/github/followers/chanraksmey1144?style=for-the-badge&logo=github&color=0D1117&labelColor=1F222E" />
+<img src="https://img.shields.io/github/stars/chanraksmey1144?style=for-the-badge&logo=github&color=0D1117&labelColor=1F222E" />
+<img src="https://komarev.com/ghpvc/?username=chanraksmey1144&style=for-the-badge&color=blueviolet" />
 
 </div>
 
 ---
 
-## 🛠️ My Tech Ecosystem
+# 👨‍💻 About Me
 
-### 🌐 Web Frontend & UI
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-</p>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### ⚙️ Web Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
-</p>
+### 🚀 Full-Stack & Mobile Developer
 
-### 🤖 Android Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+I specialize in designing and developing modern digital products with a focus on:
+
+* ⚡ High-performance web applications
+* 📱 Native Android applications
+* 🎨 Modern UI/UX systems
+* 🔐 Secure backend architecture
+* ☁️ Scalable server-side solutions
+* 🧠 Clean and maintainable codebases
 
 ---
 
-## 📊 Git Performance & Analytics
+### 🌱 Current Focus
+
+* Advanced System Design
+* Clean Architecture
+* Kotlin Multiplatform
+* Docker & DevOps
+* Microservices
+* Cloud Infrastructure
+
+<br clear="right"/>
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <!-- TOP LANGUAGES CARD -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanraksmey1144&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <!-- GLOBAL PROFILE STATS CARD -->
-        <img src="https://github-readme-stats.vercel.app/api?username=chanraksmey1144&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <!-- COMMIT STREAK TRACKER -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanraksmey1144&theme=radical&hide_border=true" width="100%" alt="Commit Streak" />
+
+<a href="mailto:chanraksmey1144@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/chanraksmey1144">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/chanraksmey1144">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 📈 My GitHub Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanraksmey1144&theme=github-compact" width="100%" alt="Activity Graph" />
-</p>
+# 🛠️ Technology Stack
+
+<div align="center">
+
+## 🎨 Frontend Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,figma" />
+
+---
+
+## ⚙️ Backend Technologies
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,mysql,postgresql,mongodb,docker,firebase" />
+
+---
+
+## 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
+
+---
+
+## 🧰 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,npm,vite,xampp" />
+
+</div>
+
+---
+
+# 🧠 Engineering Skills
+
+```yaml
+Frontend:
+  - React.js
+  - Next.js
+  - Vue.js
+  - Tailwind CSS
+  - Responsive UI Design
+
+Backend:
+  - Laravel REST APIs
+  - Express.js APIs
+  - Authentication Systems
+  - Database Architecture
+  - CRUD Systems
+
+Mobile:
+  - Jetpack Compose
+  - Material Design 3
+  - Android UI/UX
+  - Firebase Integration
+
+Database:
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+
+DevOps:
+  - Docker
+  - Git & GitHub
+  - Deployment Workflows
+```
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## ☕ E-Coffee Management System
+
+### Full-Stack Coffee Shop Platform
+
+#### 🔧 Tech Used
+
+* Laravel API
+* React.js
+* Tailwind CSS
+* MySQL
+* JWT Authentication
+
+#### ✨ Features
+
+* Product Management
+* Customer Dashboard
+* Order Tracking
+* Admin Analytics
+* Inventory System
+* Authentication & Roles
+
+</td>
+
+<td width="50%">
+
+## 📱 Android Compose UI Showcase
+
+### Modern Android UI Components
+
+#### 🔧 Tech Used
+
+* Kotlin
+* Jetpack Compose
+* Material 3
+* Firebase
+
+#### ✨ Features
+
+* Navigation Drawer
+* Full Screen Dialogs
+* Date & Time Pickers
+* Lazy Lists
+* Carousel Components
+* Animated UI Elements
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chanraksmey1144&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanraksmey1144&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chanraksmey1144&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chanraksmey1144&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chanraksmey1144&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# ⚡ Development Workflow
+
+```mermaid
+graph LR
+
+A[Design UI/UX] --> B[Frontend Development]
+B --> C[Backend API]
+C --> D[Database Integration]
+D --> E[Testing]
+E --> F[Deployment]
+```
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Build scalable SaaS applications
+* ✅ Master advanced system design
+* ✅ Learn cloud-native architecture
+* ✅ Contribute to open source
+* ✅ Build production-ready Android apps
+* ✅ Improve DevOps workflow
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+> "Code is not only about functionality — it is about creating experiences, solving problems, and building systems that scale beautifully."
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+<div align="center">
+
+<a href="https://github.com/sponsors">
+<img src="https://img.shields.io/badge/Sponsor-Developer-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chanraksmey1144&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <br />
-  <sub>⚡ Designed with precision and powered by open-source metrics.</sub>
+
+## ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:090979,50:00d4ff,100:020024"/>
+
 </div>
